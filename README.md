@@ -56,4 +56,4 @@ order.placeOrder("John Doe", "123 Main St");
 ```
 
 ## UML Class Diagram
-![]()
+![UML Class Diagram - SOLID Principles](src/UMLCD_SOLIDPRINCIPLES-ASS5.png)
